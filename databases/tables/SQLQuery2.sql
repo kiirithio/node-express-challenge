@@ -1,0 +1,1 @@
+CREATE TABLE User (id INT PRIMARY KEY IDENTITY, firstname VARCHAR(100), secondname VARCHAR(100), email VARCHAR(100), project TEXT, password VARCHAR(100))
